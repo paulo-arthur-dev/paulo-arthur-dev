@@ -1,5 +1,5 @@
 <h1 align="center">Prazer, me chamo Paulo Arthur!</h1>
-<h3 align="center">Sou fã de tecnologia desde sempre. Atualmente, sigo focado em aprender e adquirir habilidades no desenvolvimento web Front-End, sempre seguindo boas práticas de organização e produção do código e com foco em UX/UI. Fique a vontade para olhar meus projetos e dar sugestões!</h3>
+<h3 align="center">Sou fã de tecnologia desde sempre. Atualmente, sigo focado em aprender e adquirir habilidades no desenvolvimento web Front-End, sempre seguindo boas práticas de organização e produção do código e valorizando uma boa experiência do usuário (UX/UI). Fique a vontade para olhar meus projetos e dar sugestões!</h3>
 
 <hr>
 <p align="center"> 
